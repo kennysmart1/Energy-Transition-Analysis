@@ -1,4 +1,5 @@
 # Energy Transition
+https://www.novypro.com/project/world-energy-transition
 
 The world is facing an energy transition as the demand for energy continues to rise and traditional fossil fuel sources become increasingly scarce. Renewable energy sources such as wind, solar, and hydro power are becoming more economically viable and accessible, and many countries are investing in these technologies to reduce their reliance on fossil fuels and lower their carbon emissions.</p>
 			<p>However, transitioning to renewable energy sources requires significant investments in infrastructure and research, and there are still many challenges that need to be addressed, such as the intermittency of renewable sources and the need for energy storage solutions.</p>
